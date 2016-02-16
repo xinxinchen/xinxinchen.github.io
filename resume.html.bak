@@ -225,7 +225,7 @@ section:last-child {
 
         <p class="menus">
           <a class="divider" href="about.html">about me</a>
-          <a class="divider" href="index.html">projects</a>
+          <a class="divider" href="home.html">projects</a>
 					<a href="contact.html">&nbsp&nbspcontact</a>
 				</p>
 			</header>
